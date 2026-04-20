@@ -134,6 +134,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 ### 📬 Let's Connect
 <p align="center">
 <a href="https://linkedin.com/in/rashmi-bansal-86b824322/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

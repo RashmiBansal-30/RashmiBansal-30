@@ -33,7 +33,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Skill Progress</h4>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rashmi-Bansal35&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RashmiBansal-30&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" />
     </td>
   </tr>
 </table>
@@ -51,8 +51,8 @@
 ### 📊 GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashmi-Bansal35&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rashmi-Bansal35&theme=vision-friendly-dark&hide_border=true&background=00000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RashmiBansal-30&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RashmiBansal-30&theme=vision-friendly-dark&hide_border=true&background=00000000" height="180" />
 </p>
 
 ---
@@ -62,18 +62,18 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rashmi-Bansal35&theme=transparent" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RashmiBansal-30&theme=transparent" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rashmi-Bansal35&theme=transparent" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RashmiBansal-30&theme=transparent" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rashmi-Bansal35&theme=transparent&utcOffset=5.5" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RashmiBansal-30&theme=transparent&utcOffset=5.5" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rashmi-Bansal35&theme=transparent" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RashmiBansal-30&theme=transparent" />
     </td>
   </tr>
 </table>
@@ -83,11 +83,11 @@
 #### 📈 Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rashmi-Bansal35&theme=transparent" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashmiBansal-30&theme=transparent" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashmi-Bansal35&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashmiBansal-30&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -129,7 +129,7 @@
 
 ### 🏆 Recognitions
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rashmi-Bansal35&theme=onedark&no-frame=true&column=4" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RashmiBansal-30&theme=onedark&no-frame=true&column=4" width="100%" />
 </p>
 
 ---
@@ -141,7 +141,7 @@
 ### 📬 Let's Connect
 <p align="center">
 <a href="https://linkedin.com/in/rashmi-bansal-86b824322/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Rashmi-Bansal35"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/RashmiBansal-30"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://x.com/rashmi_bansal35"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/profile/rashmiBansal"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Rashmi_Bansal/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
@@ -149,7 +149,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rashmi-Bansal35&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=RashmiBansal-30&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" />
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
 </div>

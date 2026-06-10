@@ -78,17 +78,6 @@
   </tr>
 </table>
 
----
-
-#### 📈 Activity Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashmiBansal-30&theme=transparent" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashmiBansal-30&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
 
 ---
 

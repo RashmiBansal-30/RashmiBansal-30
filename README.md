@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&textRashmi%20Bansal&fontSize=70&&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rashmi+Bansal&fontSize=70&animation=twinkling" />
 </p>
 
 <div align="center">
@@ -54,6 +54,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RashmiBansal-30&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RashmiBansal-30&theme=vision-friendly-dark&hide_border=true&background=00000000" height="180" />
 </p>
+
+---
+
+### Activity 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashmiBansal-30&theme=transparent" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RashmiBansal-30&theme=react-dark&hide_border=true">
+</p>
+
 
 ---
 

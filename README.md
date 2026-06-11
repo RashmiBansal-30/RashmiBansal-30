@@ -49,6 +49,12 @@
 ---
 
 ### 📊 GitHub Performance Metrics
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=RashmiBansal-30&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+
+<!--
+### 📊 GitHub Performance Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RashmiBansal-30&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" height="180" />
@@ -66,7 +72,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RashmiBansal-30&theme=react-dark&hide_border=true">
 </p>
 
-
+-->
 ---
 
 #### 🛠️ Language & Productivity Distribution

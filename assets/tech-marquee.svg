@@ -1,0 +1,286 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="116" viewBox="0 0 1000 116" role="img" aria-label="Scrolling list of technologies" xmlns:c2pa="http://c2pa.org/manifest">
+<defs>
+  <linearGradient id="fadeg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#000"/><stop offset="0.1" stop-color="#fff"/><stop offset="0.9" stop-color="#fff"/><stop offset="1" stop-color="#000"/>
+  </linearGradient>
+  <mask id="fade"><rect width="1000" height="116" fill="url(#fadeg)"/></mask>
+</defs>
+<g mask="url(#fade)">
+<g transform="translate(0,12)"><g>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-1173 0" dur="32s" repeatCount="indefinite"/>
+<g transform="translate(0,0)"><g transform="translate(0,0)">
+  <rect width="101" height="38" rx="19" fill="#161b22" stroke="#4b8bbe" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#4b8bbe"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Python</text>
+</g><g transform="translate(115,0)">
+  <rect width="84" height="38" rx="19" fill="#161b22" stroke="#f89820" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#f89820"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Java</text>
+</g><g transform="translate(213,0)">
+  <rect width="75" height="38" rx="19" fill="#161b22" stroke="#4a90d9" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#4a90d9"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">C++</text>
+</g><g transform="translate(302,0)">
+  <rect width="58" height="38" rx="19" fill="#161b22" stroke="#a8b9cc" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#a8b9cc"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">C</text>
+</g><g transform="translate(374,0)">
+  <rect width="136" height="38" rx="19" fill="#161b22" stroke="#f7df1e" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#f7df1e"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">JavaScript</text>
+</g><g transform="translate(524,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#e34f26" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#e34f26"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">HTML5</text>
+</g><g transform="translate(631,0)">
+  <rect width="84" height="38" rx="19" fill="#161b22" stroke="#33a9dc" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#33a9dc"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">CSS3</text>
+</g><g transform="translate(729,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#61dafb" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#61dafb"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">React</text>
+</g><g transform="translate(836,0)">
+  <rect width="118" height="38" rx="19" fill="#161b22" stroke="#38bdf8" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#38bdf8"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Tailwind</text>
+</g><g transform="translate(968,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#f24e1e" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#f24e1e"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Figma</text>
+</g><g transform="translate(1075,0)">
+  <rect width="84" height="38" rx="19" fill="#161b22" stroke="#4eaa25" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#4eaa25"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Bash</text>
+</g></g>
+<g transform="translate(1173,0)"><g transform="translate(0,0)">
+  <rect width="101" height="38" rx="19" fill="#161b22" stroke="#4b8bbe" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#4b8bbe"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Python</text>
+</g><g transform="translate(115,0)">
+  <rect width="84" height="38" rx="19" fill="#161b22" stroke="#f89820" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#f89820"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Java</text>
+</g><g transform="translate(213,0)">
+  <rect width="75" height="38" rx="19" fill="#161b22" stroke="#4a90d9" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#4a90d9"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">C++</text>
+</g><g transform="translate(302,0)">
+  <rect width="58" height="38" rx="19" fill="#161b22" stroke="#a8b9cc" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#a8b9cc"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">C</text>
+</g><g transform="translate(374,0)">
+  <rect width="136" height="38" rx="19" fill="#161b22" stroke="#f7df1e" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#f7df1e"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">JavaScript</text>
+</g><g transform="translate(524,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#e34f26" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#e34f26"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">HTML5</text>
+</g><g transform="translate(631,0)">
+  <rect width="84" height="38" rx="19" fill="#161b22" stroke="#33a9dc" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#33a9dc"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">CSS3</text>
+</g><g transform="translate(729,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#61dafb" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#61dafb"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">React</text>
+</g><g transform="translate(836,0)">
+  <rect width="118" height="38" rx="19" fill="#161b22" stroke="#38bdf8" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#38bdf8"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Tailwind</text>
+</g><g transform="translate(968,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#f24e1e" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#f24e1e"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Figma</text>
+</g><g transform="translate(1075,0)">
+  <rect width="84" height="38" rx="19" fill="#161b22" stroke="#4eaa25" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#4eaa25"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Bash</text>
+</g></g>
+<g transform="translate(2346,0)"><g transform="translate(0,0)">
+  <rect width="101" height="38" rx="19" fill="#161b22" stroke="#4b8bbe" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#4b8bbe"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Python</text>
+</g><g transform="translate(115,0)">
+  <rect width="84" height="38" rx="19" fill="#161b22" stroke="#f89820" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#f89820"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Java</text>
+</g><g transform="translate(213,0)">
+  <rect width="75" height="38" rx="19" fill="#161b22" stroke="#4a90d9" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#4a90d9"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">C++</text>
+</g><g transform="translate(302,0)">
+  <rect width="58" height="38" rx="19" fill="#161b22" stroke="#a8b9cc" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#a8b9cc"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">C</text>
+</g><g transform="translate(374,0)">
+  <rect width="136" height="38" rx="19" fill="#161b22" stroke="#f7df1e" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#f7df1e"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">JavaScript</text>
+</g><g transform="translate(524,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#e34f26" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#e34f26"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">HTML5</text>
+</g><g transform="translate(631,0)">
+  <rect width="84" height="38" rx="19" fill="#161b22" stroke="#33a9dc" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#33a9dc"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">CSS3</text>
+</g><g transform="translate(729,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#61dafb" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#61dafb"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">React</text>
+</g><g transform="translate(836,0)">
+  <rect width="118" height="38" rx="19" fill="#161b22" stroke="#38bdf8" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#38bdf8"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Tailwind</text>
+</g><g transform="translate(968,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#f24e1e" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#f24e1e"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Figma</text>
+</g><g transform="translate(1075,0)">
+  <rect width="84" height="38" rx="19" fill="#161b22" stroke="#4eaa25" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#4eaa25"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Bash</text>
+</g></g>
+</g></g>
+<g transform="translate(0,64)"><g>
+<animateTransform attributeName="transform" type="translate" from="-1328 0" to="0 0" dur="36s" repeatCount="indefinite"/>
+<g transform="translate(0,0)"><g transform="translate(0,0)">
+  <rect width="75" height="38" rx="19" fill="#161b22" stroke="#ff9900" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#ff9900"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">AWS</text>
+</g><g transform="translate(89,0)">
+  <rect width="101" height="38" rx="19" fill="#161b22" stroke="#2496ed" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#2496ed"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Docker</text>
+</g><g transform="translate(204,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#fcc624" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#fcc624"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Linux</text>
+</g><g transform="translate(311,0)">
+  <rect width="75" height="38" rx="19" fill="#161b22" stroke="#f05032" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#f05032"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Git</text>
+</g><g transform="translate(400,0)">
+  <rect width="101" height="38" rx="19" fill="#161b22" stroke="#e6edf3" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#e6edf3"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">GitHub</text>
+</g><g transform="translate(515,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#5b9bd5" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#5b9bd5"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">MySQL</text>
+</g><g transform="translate(622,0)">
+  <rect width="170" height="38" rx="19" fill="#161b22" stroke="#2088ff" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#2088ff"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">GitHub Actions</text>
+</g><g transform="translate(806,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#00d4ff" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#00d4ff"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">CI/CD</text>
+</g><g transform="translate(913,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#8b949e" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#8b949e"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">OWASP</text>
+</g><g transform="translate(1020,0)">
+  <rect width="170" height="38" rx="19" fill="#161b22" stroke="#8b7bff" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#8b7bff"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Cloud Security</text>
+</g><g transform="translate(1204,0)">
+  <rect width="110" height="38" rx="19" fill="#161b22" stroke="#ff5fa2" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#ff5fa2"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">InfoSec</text>
+</g></g>
+<g transform="translate(1328,0)"><g transform="translate(0,0)">
+  <rect width="75" height="38" rx="19" fill="#161b22" stroke="#ff9900" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#ff9900"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">AWS</text>
+</g><g transform="translate(89,0)">
+  <rect width="101" height="38" rx="19" fill="#161b22" stroke="#2496ed" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#2496ed"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Docker</text>
+</g><g transform="translate(204,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#fcc624" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#fcc624"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Linux</text>
+</g><g transform="translate(311,0)">
+  <rect width="75" height="38" rx="19" fill="#161b22" stroke="#f05032" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#f05032"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Git</text>
+</g><g transform="translate(400,0)">
+  <rect width="101" height="38" rx="19" fill="#161b22" stroke="#e6edf3" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#e6edf3"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">GitHub</text>
+</g><g transform="translate(515,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#5b9bd5" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#5b9bd5"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">MySQL</text>
+</g><g transform="translate(622,0)">
+  <rect width="170" height="38" rx="19" fill="#161b22" stroke="#2088ff" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#2088ff"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">GitHub Actions</text>
+</g><g transform="translate(806,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#00d4ff" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#00d4ff"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">CI/CD</text>
+</g><g transform="translate(913,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#8b949e" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#8b949e"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">OWASP</text>
+</g><g transform="translate(1020,0)">
+  <rect width="170" height="38" rx="19" fill="#161b22" stroke="#8b7bff" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#8b7bff"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Cloud Security</text>
+</g><g transform="translate(1204,0)">
+  <rect width="110" height="38" rx="19" fill="#161b22" stroke="#ff5fa2" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#ff5fa2"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">InfoSec</text>
+</g></g>
+<g transform="translate(2656,0)"><g transform="translate(0,0)">
+  <rect width="75" height="38" rx="19" fill="#161b22" stroke="#ff9900" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#ff9900"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">AWS</text>
+</g><g transform="translate(89,0)">
+  <rect width="101" height="38" rx="19" fill="#161b22" stroke="#2496ed" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#2496ed"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Docker</text>
+</g><g transform="translate(204,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#fcc624" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#fcc624"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Linux</text>
+</g><g transform="translate(311,0)">
+  <rect width="75" height="38" rx="19" fill="#161b22" stroke="#f05032" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#f05032"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Git</text>
+</g><g transform="translate(400,0)">
+  <rect width="101" height="38" rx="19" fill="#161b22" stroke="#e6edf3" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#e6edf3"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">GitHub</text>
+</g><g transform="translate(515,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#5b9bd5" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#5b9bd5"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">MySQL</text>
+</g><g transform="translate(622,0)">
+  <rect width="170" height="38" rx="19" fill="#161b22" stroke="#2088ff" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#2088ff"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">GitHub Actions</text>
+</g><g transform="translate(806,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#00d4ff" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#00d4ff"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">CI/CD</text>
+</g><g transform="translate(913,0)">
+  <rect width="93" height="38" rx="19" fill="#161b22" stroke="#8b949e" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#8b949e"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">OWASP</text>
+</g><g transform="translate(1020,0)">
+  <rect width="170" height="38" rx="19" fill="#161b22" stroke="#8b7bff" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#8b7bff"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Cloud Security</text>
+</g><g transform="translate(1204,0)">
+  <rect width="110" height="38" rx="19" fill="#161b22" stroke="#ff5fa2" stroke-opacity="0.8" stroke-width="1.5"/>
+  <circle cx="22" cy="19" r="5" fill="#ff5fa2"/>
+  <text x="36" y="24.5" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">InfoSec</text>
+</g></g>
+</g></g>
+</g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0ZmMzN2I4NS02MzlkLTRjODUtODk3My1jYTNiNDc4YjBjNWYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBJDFVli39pEPbq2wvizGFkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3ZDkwMDNlNy1jMzMyLTQyYWQtYTk4ZC1hNjMxOTE5ZDNlZGZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoWa3y7mF5ZhNs/MgOsDOh0AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg8BJLpqOcV6xm4655Sl6JyLPkyDh9yRmCznfPkDJvRqOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPdKBXVl1H5uH9HNbX8xO0QAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIKrVOD1NScFcNCKjwdL1oChxLaHf/QCSdiaHEIC7OC1bZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GVtBZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjRmYzM3Yjg1LTYzOWQtNGM4NS04OTczLWNhM2I0NzhiMGM1Zi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjZkNjY4ZTJmLTc5N2EtNDEzYS05YzY5LWVmNDA2ZWFhNWIxNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDwEkumo5xXrGbjrnlKXonIs+TIOH3JGYLOd8+QMm9Go6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggFyo0zCjvco76SZ6VEaRgYGfxqEoX0S8FNk022tkEcMaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggvuzDVvEd18LAjT9CVQCZkKjjRwta7jnDFNYFHy85q/N0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQInaQdB/BTcrRFUsFu/kPLy/0+NAYarnIik+/siaD9KB7htMgtWuSimLFzMCTgEHNog9OS/UcQjG+LUr/EeI/ZY=</c2pa:manifest></metadata></svg>

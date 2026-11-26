@@ -1,6 +1,6 @@
 <!-- ═════════════ HERO ═════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/main/assets/hero.svg" alt="Rashmi Bansal - Frontend Developer, Cloud & Information Security" width="100%" />
+  <img src="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/main/assets/hero.svg?v=2" alt="Rashmi Bansal - Frontend Developer, Cloud & Information Security" width="100%" />
 </p>
 
 <p align="center">
@@ -11,21 +11,21 @@
 
 <!-- ═════════════ TERMINAL ═════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/main/assets/terminal.svg" alt="Animated terminal intro" width="85%" />
+  <img src="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/main/assets/terminal.svg?v=2" alt="Animated terminal intro" width="85%" />
 </p>
 
 <!-- ═════════════ TECH ═════════════ -->
 <h2 align="center">⚡ Tech I Work With</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/main/assets/tech-marquee.svg" alt="Scrolling tech stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/main/assets/tech-marquee.svg?v=2" alt="Scrolling tech stack" width="100%" />
 </p>
 
 <!-- ═════════════ ROADMAP ═════════════ -->
 <h2 align="center">🧭 My 2026 Quest Map</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/main/assets/roadmap.svg" alt="2026 learning roadmap" width="100%" />
+  <img src="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/main/assets/roadmap.svg?v=2" alt="2026 learning roadmap" width="100%" />
 </p>
 
 <!-- ═════════════ PROJECTS ═════════════ -->
@@ -62,9 +62,9 @@
 <!-- Snake needs the snake.yml workflow (see setup steps) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/output/github-snake.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/output/github-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/output/github-snake.svg?v=2" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/output/github-snake-dark.svg?v=2" width="100%" />
   </picture>
 </p>
 
@@ -82,5 +82,5 @@
 
 <!-- ═════════════ FOOTER ═════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/main/assets/footer.svg" alt="Thanks for stopping by" width="100%" />
+  <img src="https://raw.githubusercontent.com/RashmiBansal-30/RashmiBansal-30/main/assets/footer.svg?v=2" alt="Thanks for stopping by" width="100%" />
 </p>
